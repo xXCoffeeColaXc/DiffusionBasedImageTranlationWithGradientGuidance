@@ -1,0 +1,4 @@
+*.pem
+/outputs
+/AWS_output
+/results
