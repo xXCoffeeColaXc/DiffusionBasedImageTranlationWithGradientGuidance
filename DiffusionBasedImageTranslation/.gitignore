@@ -1,0 +1,9 @@
+/data
+/images
+/outputs
+/models
+/checkpoints
+/wandb
+/lightning_logs
+/__pycache__
+*.pth
