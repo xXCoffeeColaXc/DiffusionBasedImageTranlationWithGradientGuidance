@@ -26,9 +26,9 @@ For the segmentation model, simply follow the installation instructions provided
 
 ## Results
 
-![Results](results/to_night.png)
-![Results](results/to_rain.png)
-![Results](results/to_night_fog.png)
+![Results](res/to_night.png)
+![Results](res/to_rain.png)
+![Results](res/to_night_fog.png)
 
 For more details, please refer to the results folder.
 
