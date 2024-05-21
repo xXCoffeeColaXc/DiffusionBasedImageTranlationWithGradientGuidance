@@ -14,7 +14,7 @@ To run the diffusion model, install the dependencies listed in the requirements.
 
 ```python
 pip install -r DiffusionBasedImageTranslation/requirements.txt
-
+```
 ### Segmentation Model
 
 For the segmentation model, simply follow the installation instructions provided in the original [Rein repository](https://github.com/w1oves/Rein).
