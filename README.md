@@ -12,9 +12,8 @@ This implementation is based on the [Diffusion-based Image Translation with Labe
 
 To run the diffusion model, install the dependencies listed in the requirements.txt file located in the DiffusionBasedImageTranslation folder. Use the following command:
 
-''' python
+```python
 pip install -r DiffusionBasedImageTranslation/requirements.txt
-'''
 
 ### Segmentation Model
 
